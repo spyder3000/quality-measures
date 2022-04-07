@@ -1,0 +1,3 @@
+measure_id,10,TEXT
+state_abbrev,2,TEXT
+score,3,INTEGER
